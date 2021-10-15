@@ -1,0 +1,3 @@
+YOUR_TOKEN
+YOUR_TIMEZONE(ex. Europe/Moscow)
+Now you're ready to go!
